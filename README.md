@@ -12,7 +12,10 @@ Software: Python, Jupyter Notebook, Tableau Public
 Tableau Public Dashboard
 https://public.tableau.com/views/NYCCitiBike_16541262127460/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Checkout Times by Gender[https://public.tableau.com/views/NYCCitiBike_16541262127460/CheckoutTimesbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
+Tableau Public Story 
+https://public.tableau.com/shared/2GSG7JC2W?:display_count=n&:origin=viz_share_link
+
+!(bikesharing "Checkout Times by Gender")[https://public.tableau.com/views/NYCCitiBike_16541262127460/CheckoutTimesbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
 
 
 
