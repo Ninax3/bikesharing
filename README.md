@@ -24,8 +24,8 @@ https://public.tableau.com/shared/2GSG7JC2W?:display_count=n&:origin=viz_share_l
 ### Trips by Weekday per Hour
 ![bikesharing "Trips by Weekday per Hr"](https://github.com/Ninax3/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hr.png)
 
-###
-![
+### Trips by Gender by Weekday per Hour
+![bikesharing "Trips by Gender Wkdy per Hr"](https://github.com/Ninax3/bikesharing/blob/main/Trips%20by%20Gender%20Wkdy%20per%20Hr.png)
 
 ###
 ![
