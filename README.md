@@ -15,26 +15,20 @@ https://public.tableau.com/views/NYCCitiBike_16541262127460/NYCCitiBike?:languag
 Tableau Public Story 
 https://public.tableau.com/shared/2GSG7JC2W?:display_count=n&:origin=viz_share_link
 
-!(bikesharing "Checkout Times by Gender")[(https://github.com/Ninax3/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)]
+###Checkout Times 
+![bikesharing "Checkout Times"](
 
+###Checkout Times by Gender
+![bikesharing "Checkout Times by Gender"](https://github.com/Ninax3/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
 
+###
+![
 
+###
+![
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+###
+![
 
 ## Summary 
 The analysis shows that bike sharing services are used most by male users and during rush hour times, Monday through Friday. Females use bike 
