@@ -5,7 +5,7 @@ Using Tableau's data visualization tools, the viability of a bike sharing busine
 New Year Citibike business' data.
 
 ## Resources
-Data Source: citibike_tripdata.csv<br>  
+Data Source: citibike_tripdata.csv; NY_Citibike_Challenge_df https://github.com/Ninax3/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb  
 Software: Python, Jupyter Notebook, Tableau Public 
 
 ## Results 
