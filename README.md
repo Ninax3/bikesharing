@@ -15,14 +15,14 @@ https://public.tableau.com/views/NYCCitiBike_16541262127460/NYCCitiBike?:languag
 Tableau Public Story 
 https://public.tableau.com/shared/2GSG7JC2W?:display_count=n&:origin=viz_share_link
 
-###Checkout Times 
+### Checkout Times 
 ![bikesharing "Checkout Times"](
 
-###Checkout Times by Gender
+### Checkout Times by Gender
 ![bikesharing "Checkout Times by Gender"](https://github.com/Ninax3/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
 
-###
-![
+### Trips by Weekday per Hour
+![bikesharing "Trips by Weekday per Hr"](https://github.com/Ninax3/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hr.png)
 
 ###
 ![
