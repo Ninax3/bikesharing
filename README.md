@@ -16,7 +16,7 @@ Tableau Public Story
 https://public.tableau.com/shared/2GSG7JC2W?:display_count=n&:origin=viz_share_link
 
 ### Checkout Times 
-![bikesharing "Checkout Times"](
+![bikesharing "Checkout Times"](https://github.com/Ninax3/bikesharing/blob/main/Checkout%20Times.png)
 
 ### Checkout Times by Gender
 ![bikesharing "Checkout Times by Gender"](https://github.com/Ninax3/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
