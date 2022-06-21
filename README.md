@@ -9,10 +9,10 @@ Data Source:
 Software: Python, Jupyter Notebook, Tableau Public 
 
 ## Results 
-Tableau Public Dashboard
+Tableau Public Dashboard<br>
 https://public.tableau.com/views/NYCCitiBike_16541262127460/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Tableau Public Story 
+Tableau Public Story<br> 
 https://public.tableau.com/shared/2GSG7JC2W?:display_count=n&:origin=viz_share_link
 
 ### Checkout Times 
@@ -27,8 +27,8 @@ https://public.tableau.com/shared/2GSG7JC2W?:display_count=n&:origin=viz_share_l
 ### Trips by Gender by Weekday per Hour
 ![bikesharing "Trips by Gender Wkdy per Hr"](https://github.com/Ninax3/bikesharing/blob/main/Trips%20by%20Gender%20Wkdy%20per%20Hr.png)
 
-###
-![
+### User Trips by Gender by Weekday
+![bikesharing "User Trips by Gender by Wkdy"](https://github.com/Ninax3/bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Wkdy.png)
 
 ## Summary 
 The analysis shows that bike sharing services are used most by male users and during rush hour times, Monday through Friday. Females use bike 
